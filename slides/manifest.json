@@ -1,0 +1,694 @@
+[
+  {
+    "day": 1,
+    "title": "The same job, done three ways",
+    "pillar": "Callout",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-01/ig/01.png",
+        "marketing/social/slides/day-01/ig/02.png",
+        "marketing/social/slides/day-01/ig/03.png",
+        "marketing/social/slides/day-01/ig/04.png",
+        "marketing/social/slides/day-01/ig/05.png",
+        "marketing/social/slides/day-01/ig/06.png",
+        "marketing/social/slides/day-01/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-01/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-01/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 2,
+    "title": "\"Standard work\"",
+    "pillar": "Translation",
+    "slides": 6,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-02/ig/01.png",
+        "marketing/social/slides/day-02/ig/02.png",
+        "marketing/social/slides/day-02/ig/03.png",
+        "marketing/social/slides/day-02/ig/04.png",
+        "marketing/social/slides/day-02/ig/05.png",
+        "marketing/social/slides/day-02/ig/06.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-02/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-02/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 3,
+    "title": "Two weeks, one sheet, one mark",
+    "pillar": "Fix",
+    "slides": 8,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-03/ig/01.png",
+        "marketing/social/slides/day-03/ig/02.png",
+        "marketing/social/slides/day-03/ig/03.png",
+        "marketing/social/slides/day-03/ig/04.png",
+        "marketing/social/slides/day-03/ig/05.png",
+        "marketing/social/slides/day-03/ig/06.png",
+        "marketing/social/slides/day-03/ig/07.png",
+        "marketing/social/slides/day-03/ig/08.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-03/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-03/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 4,
+    "title": "Everything waits for one signature",
+    "pillar": "Callout",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-04/ig/01.png",
+        "marketing/social/slides/day-04/ig/02.png",
+        "marketing/social/slides/day-04/ig/03.png",
+        "marketing/social/slides/day-04/ig/04.png",
+        "marketing/social/slides/day-04/ig/05.png",
+        "marketing/social/slides/day-04/ig/06.png",
+        "marketing/social/slides/day-04/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-04/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-04/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 5,
+    "title": "Four hours of work, nine days of process",
+    "pillar": "Number",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-05/ig/01.png",
+        "marketing/social/slides/day-05/ig/02.png",
+        "marketing/social/slides/day-05/ig/03.png",
+        "marketing/social/slides/day-05/ig/04.png",
+        "marketing/social/slides/day-05/ig/05.png",
+        "marketing/social/slides/day-05/ig/06.png",
+        "marketing/social/slides/day-05/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-05/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-05/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 6,
+    "title": "Your people are not the problem",
+    "pillar": "Myth",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-06/ig/01.png",
+        "marketing/social/slides/day-06/ig/02.png",
+        "marketing/social/slides/day-06/ig/03.png",
+        "marketing/social/slides/day-06/ig/04.png",
+        "marketing/social/slides/day-06/ig/05.png",
+        "marketing/social/slides/day-06/ig/06.png",
+        "marketing/social/slides/day-06/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-06/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-06/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 7,
+    "title": "Fix the handoff, not the department",
+    "pillar": "Fix",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-07/ig/01.png",
+        "marketing/social/slides/day-07/ig/02.png",
+        "marketing/social/slides/day-07/ig/03.png",
+        "marketing/social/slides/day-07/ig/04.png",
+        "marketing/social/slides/day-07/ig/05.png",
+        "marketing/social/slides/day-07/ig/06.png",
+        "marketing/social/slides/day-07/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-07/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-07/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 8,
+    "title": "\"Root cause\"",
+    "pillar": "Translation",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-08/ig/01.png",
+        "marketing/social/slides/day-08/ig/02.png",
+        "marketing/social/slides/day-08/ig/03.png",
+        "marketing/social/slides/day-08/ig/04.png",
+        "marketing/social/slides/day-08/ig/05.png",
+        "marketing/social/slides/day-08/ig/06.png",
+        "marketing/social/slides/day-08/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-08/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-08/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 9,
+    "title": "The customer found it before your process did",
+    "pillar": "Callout",
+    "slides": 6,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-09/ig/01.png",
+        "marketing/social/slides/day-09/ig/02.png",
+        "marketing/social/slides/day-09/ig/03.png",
+        "marketing/social/slides/day-09/ig/04.png",
+        "marketing/social/slides/day-09/ig/05.png",
+        "marketing/social/slides/day-09/ig/06.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-09/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-09/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 10,
+    "title": "The fifteen-minute tiered huddle",
+    "pillar": "Fix",
+    "slides": 9,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-10/ig/01.png",
+        "marketing/social/slides/day-10/ig/02.png",
+        "marketing/social/slides/day-10/ig/03.png",
+        "marketing/social/slides/day-10/ig/04.png",
+        "marketing/social/slides/day-10/ig/05.png",
+        "marketing/social/slides/day-10/ig/06.png",
+        "marketing/social/slides/day-10/ig/07.png",
+        "marketing/social/slides/day-10/ig/08.png",
+        "marketing/social/slides/day-10/ig/09.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-10/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-10/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 11,
+    "title": "The dashboard is green, the floor is not",
+    "pillar": "Callout",
+    "slides": 6,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-11/ig/01.png",
+        "marketing/social/slides/day-11/ig/02.png",
+        "marketing/social/slides/day-11/ig/03.png",
+        "marketing/social/slides/day-11/ig/04.png",
+        "marketing/social/slides/day-11/ig/05.png",
+        "marketing/social/slides/day-11/ig/06.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-11/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-11/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 12,
+    "title": "\"Value stream\"",
+    "pillar": "Translation",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-12/ig/01.png",
+        "marketing/social/slides/day-12/ig/02.png",
+        "marketing/social/slides/day-12/ig/03.png",
+        "marketing/social/slides/day-12/ig/04.png",
+        "marketing/social/slides/day-12/ig/05.png",
+        "marketing/social/slides/day-12/ig/06.png",
+        "marketing/social/slides/day-12/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-12/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-12/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 13,
+    "title": "What one unplanned changeover costs",
+    "pillar": "Number",
+    "slides": 8,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-13/ig/01.png",
+        "marketing/social/slides/day-13/ig/02.png",
+        "marketing/social/slides/day-13/ig/03.png",
+        "marketing/social/slides/day-13/ig/04.png",
+        "marketing/social/slides/day-13/ig/05.png",
+        "marketing/social/slides/day-13/ig/06.png",
+        "marketing/social/slides/day-13/ig/07.png",
+        "marketing/social/slides/day-13/ig/08.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-13/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-13/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 14,
+    "title": "You do not need a Black Belt",
+    "pillar": "Myth",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-14/ig/01.png",
+        "marketing/social/slides/day-14/ig/02.png",
+        "marketing/social/slides/day-14/ig/03.png",
+        "marketing/social/slides/day-14/ig/04.png",
+        "marketing/social/slides/day-14/ig/05.png",
+        "marketing/social/slides/day-14/ig/06.png",
+        "marketing/social/slides/day-14/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-14/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-14/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 15,
+    "title": "Watch one job end to end",
+    "pillar": "Fix",
+    "slides": 8,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-15/ig/01.png",
+        "marketing/social/slides/day-15/ig/02.png",
+        "marketing/social/slides/day-15/ig/03.png",
+        "marketing/social/slides/day-15/ig/04.png",
+        "marketing/social/slides/day-15/ig/05.png",
+        "marketing/social/slides/day-15/ig/06.png",
+        "marketing/social/slides/day-15/ig/07.png",
+        "marketing/social/slides/day-15/ig/08.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-15/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-15/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 16,
+    "title": "The workaround is the process now",
+    "pillar": "Callout",
+    "slides": 6,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-16/ig/01.png",
+        "marketing/social/slides/day-16/ig/02.png",
+        "marketing/social/slides/day-16/ig/03.png",
+        "marketing/social/slides/day-16/ig/04.png",
+        "marketing/social/slides/day-16/ig/05.png",
+        "marketing/social/slides/day-16/ig/06.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-16/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-16/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 17,
+    "title": "\"Poka-yoke\"",
+    "pillar": "Translation",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-17/ig/01.png",
+        "marketing/social/slides/day-17/ig/02.png",
+        "marketing/social/slides/day-17/ig/03.png",
+        "marketing/social/slides/day-17/ig/04.png",
+        "marketing/social/slides/day-17/ig/05.png",
+        "marketing/social/slides/day-17/ig/06.png",
+        "marketing/social/slides/day-17/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-17/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-17/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 18,
+    "title": "Write it at the station",
+    "pillar": "Fix",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-18/ig/01.png",
+        "marketing/social/slides/day-18/ig/02.png",
+        "marketing/social/slides/day-18/ig/03.png",
+        "marketing/social/slides/day-18/ig/04.png",
+        "marketing/social/slides/day-18/ig/05.png",
+        "marketing/social/slides/day-18/ig/06.png",
+        "marketing/social/slides/day-18/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-18/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-18/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 19,
+    "title": "It died when the sponsor moved",
+    "pillar": "Callout",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-19/ig/01.png",
+        "marketing/social/slides/day-19/ig/02.png",
+        "marketing/social/slides/day-19/ig/03.png",
+        "marketing/social/slides/day-19/ig/04.png",
+        "marketing/social/slides/day-19/ig/05.png",
+        "marketing/social/slides/day-19/ig/06.png",
+        "marketing/social/slides/day-19/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-19/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-19/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 20,
+    "title": "Lean is not headcount reduction",
+    "pillar": "Myth",
+    "slides": 8,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-20/ig/01.png",
+        "marketing/social/slides/day-20/ig/02.png",
+        "marketing/social/slides/day-20/ig/03.png",
+        "marketing/social/slides/day-20/ig/04.png",
+        "marketing/social/slides/day-20/ig/05.png",
+        "marketing/social/slides/day-20/ig/06.png",
+        "marketing/social/slides/day-20/ig/07.png",
+        "marketing/social/slides/day-20/ig/08.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-20/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-20/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 21,
+    "title": "Pick the boring process, not the loud one",
+    "pillar": "Fix",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-21/ig/01.png",
+        "marketing/social/slides/day-21/ig/02.png",
+        "marketing/social/slides/day-21/ig/03.png",
+        "marketing/social/slides/day-21/ig/04.png",
+        "marketing/social/slides/day-21/ig/05.png",
+        "marketing/social/slides/day-21/ig/06.png",
+        "marketing/social/slides/day-21/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-21/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-21/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 22,
+    "title": "\"Takt time\"",
+    "pillar": "Translation",
+    "slides": 6,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-22/ig/01.png",
+        "marketing/social/slides/day-22/ig/02.png",
+        "marketing/social/slides/day-22/ig/03.png",
+        "marketing/social/slides/day-22/ig/04.png",
+        "marketing/social/slides/day-22/ig/05.png",
+        "marketing/social/slides/day-22/ig/06.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-22/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-22/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 23,
+    "title": "The leave test",
+    "pillar": "Number",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-23/ig/01.png",
+        "marketing/social/slides/day-23/ig/02.png",
+        "marketing/social/slides/day-23/ig/03.png",
+        "marketing/social/slides/day-23/ig/04.png",
+        "marketing/social/slides/day-23/ig/05.png",
+        "marketing/social/slides/day-23/ig/06.png",
+        "marketing/social/slides/day-23/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-23/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-23/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 24,
+    "title": "Four systems, none of them agree",
+    "pillar": "Callout",
+    "slides": 6,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-24/ig/01.png",
+        "marketing/social/slides/day-24/ig/02.png",
+        "marketing/social/slides/day-24/ig/03.png",
+        "marketing/social/slides/day-24/ig/04.png",
+        "marketing/social/slides/day-24/ig/05.png",
+        "marketing/social/slides/day-24/ig/06.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-24/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-24/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 25,
+    "title": "One page beats forty slides",
+    "pillar": "Fix",
+    "slides": 8,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-25/ig/01.png",
+        "marketing/social/slides/day-25/ig/02.png",
+        "marketing/social/slides/day-25/ig/03.png",
+        "marketing/social/slides/day-25/ig/04.png",
+        "marketing/social/slides/day-25/ig/05.png",
+        "marketing/social/slides/day-25/ig/06.png",
+        "marketing/social/slides/day-25/ig/07.png",
+        "marketing/social/slides/day-25/ig/08.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-25/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-25/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 26,
+    "title": "Digitizing a broken process",
+    "pillar": "Myth",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-26/ig/01.png",
+        "marketing/social/slides/day-26/ig/02.png",
+        "marketing/social/slides/day-26/ig/03.png",
+        "marketing/social/slides/day-26/ig/04.png",
+        "marketing/social/slides/day-26/ig/05.png",
+        "marketing/social/slides/day-26/ig/06.png",
+        "marketing/social/slides/day-26/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-26/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-26/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 27,
+    "title": "\"5S\"",
+    "pillar": "Translation",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-27/ig/01.png",
+        "marketing/social/slides/day-27/ig/02.png",
+        "marketing/social/slides/day-27/ig/03.png",
+        "marketing/social/slides/day-27/ig/04.png",
+        "marketing/social/slides/day-27/ig/05.png",
+        "marketing/social/slides/day-27/ig/06.png",
+        "marketing/social/slides/day-27/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-27/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-27/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 28,
+    "title": "Nothing is on fire. That is the problem",
+    "pillar": "Callout",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-28/ig/01.png",
+        "marketing/social/slides/day-28/ig/02.png",
+        "marketing/social/slides/day-28/ig/03.png",
+        "marketing/social/slides/day-28/ig/04.png",
+        "marketing/social/slides/day-28/ig/05.png",
+        "marketing/social/slides/day-28/ig/06.png",
+        "marketing/social/slides/day-28/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-28/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-28/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 29,
+    "title": "Did it hold?",
+    "pillar": "Fix",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-29/ig/01.png",
+        "marketing/social/slides/day-29/ig/02.png",
+        "marketing/social/slides/day-29/ig/03.png",
+        "marketing/social/slides/day-29/ig/04.png",
+        "marketing/social/slides/day-29/ig/05.png",
+        "marketing/social/slides/day-29/ig/06.png",
+        "marketing/social/slides/day-29/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-29/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-29/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 30,
+    "title": "What one quarter is worth",
+    "pillar": "Number",
+    "slides": 8,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-30/ig/01.png",
+        "marketing/social/slides/day-30/ig/02.png",
+        "marketing/social/slides/day-30/ig/03.png",
+        "marketing/social/slides/day-30/ig/04.png",
+        "marketing/social/slides/day-30/ig/05.png",
+        "marketing/social/slides/day-30/ig/06.png",
+        "marketing/social/slides/day-30/ig/07.png",
+        "marketing/social/slides/day-30/ig/08.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-30/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-30/x/01.png"
+      ]
+    }
+  }
+]
