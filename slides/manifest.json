@@ -690,5 +690,239 @@
         "marketing/social/slides/day-30/x/01.png"
       ]
     }
+  },
+  {
+    "day": 31,
+    "title": "The handover happens standing in a doorway",
+    "pillar": "Callout",
+    "slides": 8,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-31/ig/01.png",
+        "marketing/social/slides/day-31/ig/02.png",
+        "marketing/social/slides/day-31/ig/03.png",
+        "marketing/social/slides/day-31/ig/04.png",
+        "marketing/social/slides/day-31/ig/05.png",
+        "marketing/social/slides/day-31/ig/06.png",
+        "marketing/social/slides/day-31/ig/07.png",
+        "marketing/social/slides/day-31/ig/08.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-31/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-31/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 32,
+    "title": "\"Bottleneck\"",
+    "pillar": "Translation",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-32/ig/01.png",
+        "marketing/social/slides/day-32/ig/02.png",
+        "marketing/social/slides/day-32/ig/03.png",
+        "marketing/social/slides/day-32/ig/04.png",
+        "marketing/social/slides/day-32/ig/05.png",
+        "marketing/social/slides/day-32/ig/06.png",
+        "marketing/social/slides/day-32/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-32/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-32/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 33,
+    "title": "Three fields and a piece of paper",
+    "pillar": "Fix",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-33/ig/01.png",
+        "marketing/social/slides/day-33/ig/02.png",
+        "marketing/social/slides/day-33/ig/03.png",
+        "marketing/social/slides/day-33/ig/04.png",
+        "marketing/social/slides/day-33/ig/05.png",
+        "marketing/social/slides/day-33/ig/06.png",
+        "marketing/social/slides/day-33/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-33/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-33/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 34,
+    "title": "One job, one person",
+    "pillar": "Callout",
+    "slides": 8,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-34/ig/01.png",
+        "marketing/social/slides/day-34/ig/02.png",
+        "marketing/social/slides/day-34/ig/03.png",
+        "marketing/social/slides/day-34/ig/04.png",
+        "marketing/social/slides/day-34/ig/05.png",
+        "marketing/social/slides/day-34/ig/06.png",
+        "marketing/social/slides/day-34/ig/07.png",
+        "marketing/social/slides/day-34/ig/08.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-34/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-34/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 35,
+    "title": "It did not die because it was wrong",
+    "pillar": "Number",
+    "slides": 8,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-35/ig/01.png",
+        "marketing/social/slides/day-35/ig/02.png",
+        "marketing/social/slides/day-35/ig/03.png",
+        "marketing/social/slides/day-35/ig/04.png",
+        "marketing/social/slides/day-35/ig/05.png",
+        "marketing/social/slides/day-35/ig/06.png",
+        "marketing/social/slides/day-35/ig/07.png",
+        "marketing/social/slides/day-35/ig/08.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-35/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-35/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 36,
+    "title": "Twenty items through one gate",
+    "pillar": "Fix",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-36/ig/01.png",
+        "marketing/social/slides/day-36/ig/02.png",
+        "marketing/social/slides/day-36/ig/03.png",
+        "marketing/social/slides/day-36/ig/04.png",
+        "marketing/social/slides/day-36/ig/05.png",
+        "marketing/social/slides/day-36/ig/06.png",
+        "marketing/social/slides/day-36/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-36/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-36/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 37,
+    "title": "The schedule everyone actually uses",
+    "pillar": "Callout",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-37/ig/01.png",
+        "marketing/social/slides/day-37/ig/02.png",
+        "marketing/social/slides/day-37/ig/03.png",
+        "marketing/social/slides/day-37/ig/04.png",
+        "marketing/social/slides/day-37/ig/05.png",
+        "marketing/social/slides/day-37/ig/06.png",
+        "marketing/social/slides/day-37/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-37/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-37/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 38,
+    "title": "\"Work in progress\"",
+    "pillar": "Translation",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-38/ig/01.png",
+        "marketing/social/slides/day-38/ig/02.png",
+        "marketing/social/slides/day-38/ig/03.png",
+        "marketing/social/slides/day-38/ig/04.png",
+        "marketing/social/slides/day-38/ig/05.png",
+        "marketing/social/slides/day-38/ig/06.png",
+        "marketing/social/slides/day-38/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-38/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-38/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 39,
+    "title": "Nothing new starts until something finishes",
+    "pillar": "Fix",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-39/ig/01.png",
+        "marketing/social/slides/day-39/ig/02.png",
+        "marketing/social/slides/day-39/ig/03.png",
+        "marketing/social/slides/day-39/ig/04.png",
+        "marketing/social/slides/day-39/ig/05.png",
+        "marketing/social/slides/day-39/ig/06.png",
+        "marketing/social/slides/day-39/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-39/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-39/x/01.png"
+      ]
+    }
+  },
+  {
+    "day": 40,
+    "title": "The benchmark with its conditions removed",
+    "pillar": "Myth",
+    "slides": 8,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-40/ig/01.png",
+        "marketing/social/slides/day-40/ig/02.png",
+        "marketing/social/slides/day-40/ig/03.png",
+        "marketing/social/slides/day-40/ig/04.png",
+        "marketing/social/slides/day-40/ig/05.png",
+        "marketing/social/slides/day-40/ig/06.png",
+        "marketing/social/slides/day-40/ig/07.png",
+        "marketing/social/slides/day-40/ig/08.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-40/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-40/x/01.png"
+      ]
+    }
   }
 ]
