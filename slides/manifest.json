@@ -1390,5 +1390,28 @@
         "marketing/social/slides/day-60/x/01.png"
       ]
     }
+  },
+  {
+    "day": 901,
+    "title": "Christmas Day message",
+    "pillar": "Callout",
+    "slides": 7,
+    "files": {
+      "ig": [
+        "marketing/social/slides/day-901/ig/01.png",
+        "marketing/social/slides/day-901/ig/02.png",
+        "marketing/social/slides/day-901/ig/03.png",
+        "marketing/social/slides/day-901/ig/04.png",
+        "marketing/social/slides/day-901/ig/05.png",
+        "marketing/social/slides/day-901/ig/06.png",
+        "marketing/social/slides/day-901/ig/07.png"
+      ],
+      "pin": [
+        "marketing/social/slides/day-901/pin/01.png"
+      ],
+      "x": [
+        "marketing/social/slides/day-901/x/01.png"
+      ]
+    }
   }
 ]
